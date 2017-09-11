@@ -14,5 +14,6 @@ Aprendiendo Android desde cero
   - Calcular las horas, minutos y segundos de un número real. <a href="https://appandroideando.blogspot.pe/2017/08/ejercicio-calcular-las-horas-minutos-y.html" title="">Ir a Enterarme y descargar</a>
   - De un monto, indicar cuantos billetes (20, 10) y monedas (5,1,0.5) <a href="https://appandroideando.blogspot.pe/2017/09/ejercicio-calcular-monto-y-determinar.html" title="">Ir a Enterarme y descargar</a>
   - Resolver ecuaciones de 2do grado. <a href="http://appandroideando.blogspot.pe/2017/09/ejercicio-resolver-ecuaciones-de-2do.html" title="">Ir a Enterarme y descargar</a>
+  - Calcular el monto a pagar con descuento e impuestos. <a href="http://appandroideando.blogspot.pe/2017/09/ejercicio-determinar-el-importe-pagar.html" title="">Ir a Enterarme y descargar</a>
   
   
